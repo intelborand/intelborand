@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Andrii Bordakov (@intelborand)
-- 👀 I’m interested in Front-End (React, React Native, Angular, TS, JS, Redux...)
-- 🌱 I’m currently improving my skill in Front-End programming.
+- Frontend Developer with 4+ years exp.
+- 👀 Tech stack I use - React, React Native, Angular 2+, Figma and more....
+- 🌱 I’m currently improving my skills in Front-End programming.
 - 📫 Welcome to my website https://bordakovapp.web.app/
 
 <!---
